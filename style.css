@@ -93,7 +93,7 @@ header nav a:active {
     text-transform:uppercase;
     text-decoration: none;
     display:inline-block;
-    padding: 10px 20px;
+    
 }
 
 .request:link {
@@ -101,3 +101,16 @@ header nav a:active {
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
 }
+article {
+  float: left;
+  margin: 0 0 1em 1em;
+}
+#who_we_are {
+    padding-top: 75px;
+    font-family: 'Cinzel', serif;
+    font-size: large;
+    font-style: oblique;
+    font-stretch: normal
+}
+#what_we_do {
+  padding-top: 150px
